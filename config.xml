@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>shoplync_custom_banners</name>
+	<displayName><![CDATA[Custom Shop Banners]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Allows users to manage/enable/disable banners via SMS Pro. This banner will be displayed a the top of the shop]]></description>
+	<author><![CDATA[Shoplync]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
